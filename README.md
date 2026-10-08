@@ -3,8 +3,8 @@
 ### Creative-Tech Learner • Beginner Freelancer • AI & Technology Enthusiast
 
 📍 Gujarat, India
-📧 **Email:** `your-email@example.com`
-🔗 **GitHub:** `https://github.com/yourusername`
+📧 **Email:** `helloworld46890@gmail.com`
+🔗 **GitHub:** `https://github.com/Binay-Madesia`
 
 ---
 

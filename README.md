@@ -145,25 +145,12 @@ Developed practical experience in:
 
 ---
 
-## 🎓 Education
-
-### Class 12 — Science (PCM)
-
-**Gujarat Board / GSEB**
-
-Subjects:
-
-* Physics
-* Chemistry
-* Mathematics
-
----
 
 ## 🌎 Languages
 
 * 🇮🇳 Gujarati
 * 🇮🇳 Hindi
-* 🇬🇧 English
+* 🇮🇳 English
 
 ---
 
@@ -193,7 +180,7 @@ I'm currently working toward:
 
 The best way to reach me is through:
 
-📧 **Email:** `your-email@example.com`
+📧 **Email:** `helloworld46890@gmail.com`
 
 > I'm currently building my portfolio and open to learning opportunities, collaborations, and beginner-friendly freelance projects.
 

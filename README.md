@@ -171,15 +171,15 @@ Subjects:
 
 I'm currently working toward:
 
-* [ ] Build a strong GitHub portfolio
-* [ ] Complete several Python projects
-* [ ] Learn AI & automation
-* [ ] Improve video editing
-* [ ] Build design projects
-* [ ] Start freelancing
-* [ ] Get my first freelance client
-* [ ] Build real-world experience
-* [ ] Develop a strong technical + creative skill set
+*  Build a strong GitHub portfolio
+*  Complete several Python projects
+*  Learn AI & automation
+*  Improve video editing
+*  Build design projects
+*  Start freelancing
+*  Get my first freelance client
+*  Build real-world experience
+*  Develop a strong technical + creative skill set
 
 ---
 

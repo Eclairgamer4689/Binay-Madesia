@@ -4,7 +4,7 @@
 
 📍 Gujarat, India
 📧 **Email:** `helloworld46890@gmail.com`
-🔗 **GitHub:** `https://github.com/Binay-Madesia`
+🔗 **GitHub:** `https://eclairgamer4689.github.io/Binay-Madesia/`
 
 ---
 

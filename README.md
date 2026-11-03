@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Binay Madesia
+# 👋 Hi, I'm Eclair
 
 ### Creative-Tech Learner • Beginner Freelancer • AI & Technology Enthusiast
 
